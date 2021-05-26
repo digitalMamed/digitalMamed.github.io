@@ -1,0 +1,3 @@
+[submodule "excurtion"]
+	path = excurtion
+	url = https://github.com/digitalMamed/digitalMamed.github.io.git
